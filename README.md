@@ -2,7 +2,7 @@
 
 Piano simulator developed as part of my web development studies.
 
-🎮[Click here to play]()
+🎮[Click here to play](https://luciofer.github.io/piano-simulator/)
 
 ![preview](./src/assets/piano.PNG)
 
