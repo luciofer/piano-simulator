@@ -1,8 +1,10 @@
 # Piano Simulator
 
-Game in development.
+Piano simulator developed as part of my web development studies.
 
-🎮
+🎮[Click here to play]()
+
+![preview](./src/assets/piano.PNG)
 
 
 ## 👩🏾‍💻 Technologies
@@ -10,7 +12,6 @@ Game in development.
 - HTML5
 - CCS3
 - JavaScript
-- DOM Maniputaltion
 - Git and Github
 
 ## ✉ Contact
